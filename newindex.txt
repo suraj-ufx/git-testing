@@ -2,3 +2,4 @@ git 1st commit for txt
 git 2nd commit for txt
 git 3rd commit for txt
 git 4th commit for txt
+git 4th commit for txt in the rebase-feature
