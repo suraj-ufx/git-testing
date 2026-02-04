@@ -24,11 +24,11 @@ other code
 ## Decide final code and remove markers
 
 
-# Mark conflict as resolved:
+### Mark conflict as resolved:
 git add <file-name>
 
 
-# Complete merge or rebase:
+### Complete merge or rebase:
 git commit
-# or
+### or
 git rebase --continue
