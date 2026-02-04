@@ -21,16 +21,14 @@ other code
 >>>>>>> main
 ```
 
-Decide final code and remove markers
+## Decide final code and remove markers
 
 
-Mark conflict as resolved:
-
+# Mark conflict as resolved:
 git add <file-name>
 
 
-Complete merge or rebase:
-
+# Complete merge or rebase:
 git commit
 # or
 git rebase --continue
